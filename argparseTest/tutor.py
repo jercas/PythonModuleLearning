@@ -1,3 +1,8 @@
+# coding=utf-8
+# By JerCas
+# 2017-6-28
+# 测试argparse，选择+位置参数
+
 # 导入该模块
 import argparse
 

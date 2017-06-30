@@ -1,3 +1,7 @@
+# coding=utf-8
+# By JerCas
+# 测试argparse，选择参数
+
 import argparse
 
 descStr = "This program is a test example of how to use argparse to analyze command"

@@ -1,3 +1,8 @@
+# coding=utf-8
+# By JerCas
+# 2017-6-29
+# 测试argparse，互斥组参数
+
 import argparse
 
 parser = argparse.ArgumentParser(description="calculate X with Y")
